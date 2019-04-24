@@ -110,16 +110,19 @@ UPDATE Course SET CRN='si106' WHERE course_id=1;
 UPDATE Course SET CRN='si110' WHERE course_id=2;
 UPDATE Course SET CRN='si206' WHERE course_id=3;
 
+/*
+Adding new users, testing pushing from CLI.
+*/
 
-
-
-
-
-
-
-
-
-
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
+INSERT INTO User (name) VALUES ('');
 
 
 
