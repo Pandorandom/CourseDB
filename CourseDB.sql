@@ -11,7 +11,8 @@ name VARCHAR(128) UNIQUE
 
 CREATE TABLE Course (
 course_id INTEGER NOT NULL AUTO_INCREMENT KEY,
-title VARCHAR(128) UNIQUE
+title VARCHAR(128) UNIQUE,
+crn INTEGER
 ) ENGINE=InnoDB CHARACTER SET=utf8;
 
 CREATE TABLE Member (
@@ -60,9 +61,9 @@ INSERT INTO User (name) VALUES ('Carra');
 INSERT INTO User (name) VALUES ('Idahosa');
 INSERT INTO User (name) VALUES ('Iliana');
 
-INSERT INTO Course (title) VALUES ('si106');
-INSERT INTO Course (title) VALUES ('si110');
-INSERT INTO Course (title) VALUES ('si206');
+INSERT INTO Course (title, crn) VALUES ('Programs, Information, and People','si106');
+INSERT INTO Course (title, crn) VALUES ('Introduction to Information Studies','si110');
+INSERT INTO Course (title, crn) VALUES ('Data-oriented Programming','si206');
 
 Course si106 course_id is: 1
 Course si110 course_id is: 2
@@ -91,6 +92,39 @@ INSERT INTO Member (user_id, course_id, role) VALUES (15, 3, 0);
 
 
 SELECT User.name, Course.title, Member.role FROM User JOIN Member JOIN Course ON  User.user_id = Member.user_id AND Member.course_id = Course.course_id ORDER BY  Course.title, Member.role DESC, User.name
+
+/* FOR FUTURE WORK:
+more courses, users, and professors, add associate professors (role within the Member table), credit hours per course, cost per course, completed vs enrolled vs dropped progress
+*/
+
+
+ALTER TABLE Course ADD CRN VARCHAR(20) NOT NULL;
+ALTER TABLE Course SET CRN=0 WHERE CRN IS NULL;
+ALTER TABLE Course ALTER COLUMN set CRN=0 WHERE CRN IS NULL;
+
+UPDATE Course SET title='Programs, Information, and People' WHERE course_id=1;
+UPDATE Course SET title='Introduction to Information Studies' WHERE course_id=2;
+UPDATE Course SET title='Data-oriented Programming' WHERE course_id=3;
+
+UPDATE Course SET CRN='si106' WHERE course_id=1;
+UPDATE Course SET CRN='si110' WHERE course_id=2;
+UPDATE Course SET CRN='si206' WHERE course_id=3;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 JSON object of my assignment:
