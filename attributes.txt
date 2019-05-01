@@ -1,0 +1,200 @@
+Database Management Systems
+Advanced Multimedia Business Information Systems Development
+Business Application Development with Visual Basic
+Problem Solving: An Object Oriented Programming Approach
+Business Application and Web Applet Design with Java
+Analysis of Hardware, Software, and User Interfaces for Microcomputer Platforms
+Telecommunication Systems and Networking
+Information Systems Development with GUI Development Tools
+Advanced Computer Applications for Business
+LAN and WAN Systems for Business
+Operating Systems for End Users
+Principles of Quantitative Management Solutions
+Management Science
+Advanced Business Statistics
+Data Warehousing and Mining
+Information Systems Security
+Web Site Administration
+Systems Analysis and Design
+Advanced Database Management Systems
+Advanced Programming Seminar
+Database Administration
+Network Installation and Administration
+Network Installation and Administration with UNIX/Linux
+Management Information Systems
+Expert Systems
+Knowledge Representation for Intelligent Systems
+High-Performance Communication Systems and Network Analysis
+Data Mining
+Introduction to Distributed Systems
+Software Engineering
+Computer Networks
+Introduction to Mobile Computing
+Theory of Distributed Computing
+Topics in Networked Computing
+Special Topics
+Independent Study
+Directed Study: Programming Project
+Computational Methods in Nonlinear Programming
+Numerical Linear Algebra
+Master’s Thesis
+Master’s Report
+Computer Security
+Computational Complexity and Algorithms
+Introduction to Architecture
+Design Studio I
+Architectural History I
+Design Studio II
+Design Studio III
+Construction Practices I
+Architectural History II
+Building Systems I
+Theory of Structures I
+Construction Practices II
+History of American Architecture
+Survival Sketching
+Special Topics Technical
+Arch. Digital Media I
+Design Studio IV
+Design Studio V
+Building Systems II
+Theory of Structures II
+Building Systems II
+Math and Physics for Architects
+Design Studio I
+Architectural Graphics I
+Design Studio II
+Design Seminar II
+Design Studio III
+Design Seminar III
+Design Studio IV
+Design Seminar IV
+Introduction to Architecture
+History of Architecture I
+History of Architecture II
+Human Factors in Design
+Introduction to Building Technology
+Building Construction and Methods
+Environmental Control Systems I
+Environmental Control Systems II
+Elementary Latin I
+Beginning Latin II
+Vocabulary for Professionals
+Building Vocabulary From Greek and Latin Words
+Intermediate Latin I
+Intermediate Latin II
+Independent Study
+Medical Terminology
+Properties of Engineering Materials
+Design of Mechanical Elements
+Heat Transfer
+Strength of Materials
+Intermediate Dynamics
+Manufacturing Processes Design
+Bioengineering
+Improving Memory
+Psychology Applied to Everyday Life
+Statistics and Research-Methods
+Biological Basis of Behavior
+Internship
+Topics in Psychology
+Research-Methods in Psychology
+Behavioral Genetics
+Industrial and Organizational Psychology
+Human Development I: Child Psychology
+Human Development II: Adolescence and Adulthood
+Principles of Learning and Behavior
+Behavioral Neuroscience
+Research-Design and Development
+Applied Statistics Using SAS and SPSS I
+Applied Statistics Using SAS and SPSS II
+Human Cognition
+Psychology of Perception
+Beginning German I
+Beginning German II
+Freshman Seminar
+Intermediate German I
+Intermediate German II
+Intermediate German II: Grammar Review and Oral Practice
+Readings and Translation
+Intermediate Composition and Vocabulary Building
+Independent Study: GRMN
+Internship
+Travel Study
+Advanced Conversation: Idioms and Vocabulary Building
+Phonetics and Pronunciation of German
+Introduction to African History
+Introduction to Latin American History
+Introduction to Asian History
+Islam and Asia
+Introduction to European History
+Ancient Greece
+Rome: City and Empire
+Introduction to Modern South Asia
+British Isles to 1714
+British Isles Since 1714
+Renaissance and Reformation
+Medieval Europe
+Tudor-Stuart England
+African History in Novels and Films
+Sports and American Society
+Colorado Mining and Railroads
+U.S. History Through Fiction
+National Parks History
+Oral History
+Public History Administration
+Interpretation of History in Museums: Exhibits and Education
+Heritage Tourism
+Philosophy and Literature
+Rationalism
+Empiricism
+Introduction to Phenomenology
+Kant
+Hegel
+Heidegger
+Nietzsche
+Marx and Marxism
+Plato
+Aristotle
+Astrophysics
+Computational Physics
+Intercultural Communication
+Communication and Change
+Environmental Communication
+Communication Processes in Technology Transfer
+Web Design
+Multimedia Authoring
+Special Topics in Medical Anthropology
+Human Migration: Nomads, Sojourners, and Settlers
+Anthropology of Health Care Policy
+Urban Food Systems and Sustainability
+World Prehistory
+Colorado Archaeology
+Southwestern Archaeology
+Topics in Archaeology
+Anthropology of Work
+Anthropology and Politics of the Global Tobacco Epidemic
+Human Osteology
+Human Evolution
+Primate Behavior Research-at the Zoo
+Anthropology of Death
+Current Topics in Anthropology
+Cross-Cultural Field Experience
+Advanced Organic Chemistry
+Computational Chemistry
+Molecular Structure and Spectra
+Advanced Physical Chemistry
+Applications of Group Theory in Chemistry
+Topics in Chemistry
+Environmental Chemistry
+Air Pollution Chemistry
+Atmospheric Sampling and Analysis
+General Biochemistry I
+General Biochemistry II
+Physical Chemistry I
+Physical Chemistry Laboratory I
+Physical Chemistry II
+Physical Chemistry II Laboratory
+Environmental Chemistry
+General Biochemistry I
+General Biochemistry II
