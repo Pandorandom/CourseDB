@@ -1,0 +1,1 @@
+UPDATE Course SET crn='%s' WHERE title=;\n
